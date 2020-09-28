@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "home10th"
+    }
+  },
+  "defaultProject": "home10th",
+  "cli": {
+    "analytics": false
+  }
 }
